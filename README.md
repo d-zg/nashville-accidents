@@ -7,7 +7,7 @@ GeoPandas and Plotly were used to analyze and visualize geospatial information. 
 Some visualizations provided below, rest are in the report.
 
 Average response time by census tract:
-![image1](images/Screenshot_from_2023-04-29_14-04-44.png)
+![image1]('images/Screenshot from 2023-04-29 14-04-44.png')
 
 Average housing value by census tract:
 ![image2](images/housingvalue.png)
